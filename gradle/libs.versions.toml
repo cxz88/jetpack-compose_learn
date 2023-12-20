@@ -28,6 +28,7 @@ androidx-ui-test-junit4 = { group = "androidx.compose.ui", name = "ui-test-junit
 androidx-material3 = { group = "androidx.compose.material3", name = "material3" }
 androidx-material = { group = "androidx.compose.material", name = "material" }
 androidx-material-ics = { group = "androidx.compose.material", name = "material-icons-extended" }
+androidx-navigation-cps = { group = "androidx.navigation", name = "navigation-compose" ,version="2.7.6"}
 
 [plugins]
 androidApplication = { id = "com.android.application", version.ref = "agp" }
