@@ -67,4 +67,5 @@ dependencies {
     debugImplementation(libs.androidx.ui.tooling)
     debugImplementation(libs.androidx.ui.test.manifest)
     debugImplementation(libs.androidx.navigation.cps)
+    debugImplementation(libs.google.accompanist.permissions)
 }

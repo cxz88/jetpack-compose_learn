@@ -19,7 +19,7 @@ fun RowSample() {
         Text(
             text = "第一个", color = Color.Red,
             //占比比重
-//            modifier = Modifier.weight(1f)
+            modifier = Modifier.weight(1f)
         )
         Text(
             text = "第二个", color = Color.Red,
